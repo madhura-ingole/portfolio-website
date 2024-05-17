@@ -9,11 +9,11 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges.",
   github: "https://github.com/madhura-ingole",
   resume:
-    "https://drive.google.com/file/d/1VAix5D9fHobyYKHqqXhWtnrh4LF93y2b/view?usp=sharing",
+    "https://drive.google.com/file/d/1IDExhJgvtx9mcOwaBbac72n8KpHpgQLw/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/madhura-ingole/",
   twitter: "https://twitter.com/madhura_ingole",
   insta: "https://www.instagram.com/madhura_ingole/",
-  facebook: "https://www.facebook.com/people/Madhura-Ingole",
+  facebook: "https://www.facebook.com/profile.php?id=100082135865015",
 };
 
 export const skills = [
@@ -95,7 +95,7 @@ export const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://github.com/madhura-ingole/portfolio-website-assets/blob/main/image.png?raw=true",
       },
       {
         name: "Adobe After Effects",
@@ -177,7 +177,7 @@ export const education = [
     id: 0,
     img: "https://github.com/madhura-ingole/portfolio-website-assets/blob/main/vit.jpg?raw=true",
     school: "Vishwakarma Institute of Technology, Pune",
-    date: "Dec 2021 - June 2025",
+    date: "Dec 2021 - Present",
     grade: "8.34 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Electronics and Telecommunication Engineering where I have taken courses like Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Web Technologies and Computer Networks. I have worked on various projects as a part of these courses.",
     degree: "Bachelor of Technology - BTech, Electronics and Telecommunication Engineering ",
