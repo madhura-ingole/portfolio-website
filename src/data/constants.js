@@ -177,7 +177,7 @@ export const education = [
     id: 0,
     img: "https://github.com/madhura-ingole/portfolio-website-assets/blob/main/vit.jpg?raw=true",
     school: "Vishwakarma Institute of Technology, Pune",
-    date: "Dec 2021 - June 2025",
+    date: "Dec 2021 - Present",
     grade: "8.34 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Electronics and Telecommunication Engineering where I have taken courses like Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Web Technologies and Computer Networks. I have worked on various projects as a part of these courses.",
     degree: "Bachelor of Technology - BTech, Electronics and Telecommunication Engineering ",
