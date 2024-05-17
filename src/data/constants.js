@@ -95,7 +95,7 @@ export const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://github.com/madhura-ingole/portfolio-website-assets/blob/main/image.png",
+          "https://github.com/madhura-ingole/portfolio-website-assets/blob/main/image.png?raw=true",
       },
       {
         name: "Adobe After Effects",
